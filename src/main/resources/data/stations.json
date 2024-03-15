@@ -1,0 +1,108 @@
+{
+  "stations": [
+    {
+      "id": "A",
+      "code": "AA",
+      "name": "Station A",
+      "startStation": true,
+      "price": 0,
+      "lastStation": false
+    },
+    {
+      "id": "B",
+      "code": "BB",
+      "name": "Station B",
+      "startStation": false,
+      "price": 5,
+      "lastStation": false
+    },
+    {
+      "id": "C",
+      "code": "CC",
+      "name": "Station C",
+      "startStation": false,
+      "price": 10,
+      "lastStation": false
+    },
+    {
+      "id": "D",
+      "code": "DD",
+      "name": "Station D",
+      "startStation": false,
+      "price": 15,
+      "lastStation": false
+    },
+    {
+      "id": "E",
+      "code": "EE",
+      "name": "Station E",
+      "startStation": false,
+      "price": 20,
+      "lastStation": false
+    },
+    {
+      "id": "F",
+      "code": "FF",
+      "name": "Station F",
+      "startStation": false,
+      "price": 25,
+      "lastStation": false
+    },
+    {
+      "id": "G",
+      "code": "GG",
+      "name": "Station G",
+      "startStation": false,
+      "price": 30,
+      "lastStation": false
+    },
+    {
+      "id": "H",
+      "code": "HH",
+      "name": "Station H",
+      "startStation": false,
+      "price": 35,
+      "lastStation": false
+    },
+    {
+      "id": "I",
+      "code": "II",
+      "name": "Station I",
+      "startStation": false,
+      "price": 40,
+      "lastStation": false
+    },
+    {
+      "id": "J",
+      "code": "JJ",
+      "name": "Station J",
+      "startStation": false,
+      "price": 50,
+      "lastStation": false
+    },
+    {
+      "id": "K",
+      "code": "K",
+      "name": "Station K",
+      "startStation": false,
+      "price": 55,
+      "lastStation": false
+    },
+    {
+      "id": "L",
+      "code": "LL",
+      "name": "Station L",
+      "startStation": false,
+      "price": 60,
+      "lastStation": false
+    },
+    {
+      "id": "M",
+      "code": "MM",
+      "name": "Station M",
+      "startStation": false,
+      "price": 65,
+      "lastStation": true
+    }
+  ]
+}
